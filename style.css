@@ -655,7 +655,7 @@ footer {
 }
 @media (max-width: 360px) {
   .home {
-    height: 85vh;
+    height: 70vh;
   }
 
   .text h1 {
@@ -776,5 +776,6 @@ footer {
   footer{
     width: 100%;
   }
+
 
 
