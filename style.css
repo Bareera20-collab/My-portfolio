@@ -653,3 +653,127 @@ footer {
     margin: 5px 8px;
   }
 }
+@media (max-width: 360px) {
+  .home {
+    height: 100vh;
+  }
+
+  .text h1 {
+    font-size: 30px;
+    margin-bottom: 18px;
+  }
+
+  .text p {
+    font-size: 20px;
+    margin-bottom: 13px;
+  }
+
+  .text button {
+    width: 70px;
+    height: 40px;
+    font-size: 10px;
+  }
+
+  .image img {
+    width: 200px;
+    height: 180px;
+  }
+
+  /* About section */
+  .about {
+    height: 310vh;
+  }
+
+  .about_me {
+    width: 90%;
+    padding: 1vh !important;
+  }
+
+  .card {
+    height: 70vh;
+  }
+
+  .card h2 {
+    font-size: 50px;
+  }
+
+  .card p {
+    font-size: 20px;
+  }
+
+  .icon {
+    right: -50px;
+    font-size: 45px;
+  }
+
+  .about_me h2 {
+    font-size: 50px;
+    padding-top: 8vh;
+  }
+
+  .about_me p {
+    font-size: 30px;
+  }
+
+  /* Project section */
+  .project {
+    width: 105%;
+    height: 180vh;
+  }
+
+  .project h1 {
+    font-size: 45px;
+  }
+
+  .card2 {
+    width: 80vw;
+    height: 130vh;
+  }
+
+  .card2 p {
+    font-size: 20px;
+  }
+
+  .card2 img {
+    height: 40vh;
+    border-radius: 10px;
+  }
+
+  .link_box {
+    width: 50px;
+    height: 20px;
+    padding: 8px;
+    font-size: 12px;
+  }
+
+  /* Experience section */
+  .experience {
+    width: 105%;
+  }
+  .timeline-container {
+    width: 80% !important;
+    margin: 15px 0px;
+    left: 0 !important;
+  }
+
+  .experience h1 {
+    font-size: 30px;
+    padding: 0 7vw;
+  }
+
+  /* Contact section */
+  .contact{
+    width: 100%;
+  }
+  .contact h1{
+    font-size: 35px;
+  }
+  .contact-container {
+    width: 80%;
+    max-width: 90%;
+  }
+
+  footer{
+    width: 100%;
+  }
+
