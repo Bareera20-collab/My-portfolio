@@ -681,7 +681,7 @@ footer {
 
   /* About section */
   .about {
-    height: 310vh;
+    height: 150vh;
   }
 
   .about_me {
@@ -690,15 +690,15 @@ footer {
   }
 
   .card {
-    height: 70vh;
+    height: 50vh;
   }
 
   .card h2 {
-    font-size: 50px;
+    font-size: 40px;
   }
 
   .card p {
-    font-size: 20px;
+    font-size: 30px;
   }
 
   .icon {
@@ -712,13 +712,13 @@ footer {
   }
 
   .about_me p {
-    font-size: 30px;
+    font-size: 20px;
   }
 
   /* Project section */
   .project {
     width: 105%;
-    height: 180vh;
+    height: 125vh;
   }
 
   .project h1 {
@@ -727,7 +727,7 @@ footer {
 
   .card2 {
     width: 80vw;
-    height: 130vh;
+    height: 95vh;
   }
 
   .card2 p {
@@ -735,7 +735,7 @@ footer {
   }
 
   .card2 img {
-    height: 40vh;
+    height: 27vh;
     border-radius: 10px;
   }
 
@@ -776,4 +776,3 @@ footer {
   footer{
     width: 100%;
   }
-
